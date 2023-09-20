@@ -1,4 +1,4 @@
 # BIOapp
-my portfolio website
+my portfolio website,
 <br>
-author -Rugved Taru
+author - Rugved Taru
